@@ -2,7 +2,7 @@
     git:
       repoName: app-simple-maven
       branches:
-        - master
+        - main
     scan:
       projects:
         - workingDirs:
